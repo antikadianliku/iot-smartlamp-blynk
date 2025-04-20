@@ -43,11 +43,11 @@ MIT License — silakan gunakan, ubah, dan kembangkan untuk kebutuhan edukasi da
 ---
 
 ## Arsitekstur Sistem
-![Arsitektur](Images/Arsitektur.png)
+<img src="Images/Arsitektur.png" width="500" />
 
 ## Tampilan Blynk
-![Antarmuka](Images/Antarmuka.png)
+<img src="Images/Antarmuka.png" width="500" /
 
 ## Skematik Sistem
-![Skematik](Images/Skematik.png)
+<img src="Images/Skematik.png" width="500" /
 
