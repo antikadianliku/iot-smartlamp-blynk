@@ -1,0 +1,15 @@
+*.o
+*.bin
+*.hex
+*.cpp
+*.bak
+*.tmp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+secrets.h
+token.txt
+__pycache__/
+.pio/
+.build/
