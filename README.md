@@ -39,5 +39,15 @@ Proyek ini merupakan Sistem otomatisasi lampu berbasis IoT menggunakan ESP8266, 
 ## License
 MIT License — silakan gunakan, ubah, dan kembangkan untuk kebutuhan edukasi dan penelitian.
 
+
 ---
+
+## Arsitekstur Sistem
+![Arsitektur](Images/Arsitektur.png)
+
+## Tampilan Blynk
+![Antarmuka](Images/Antarmuka.png)
+
+## Skematik Sistem
+![Skematik](Images/Skematik.png)
 
